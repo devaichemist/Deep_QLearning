@@ -34,7 +34,3 @@ Final performance showed stable, controlled landings regardless of the initial f
 
 ![lunar_lander](https://github.com/user-attachments/assets/2350d24a-74e5-4cae-9253-e56f78f073cf)
 
-
-A video generated from the trained agent demonstrated consistent and precise landings on the designated pad, validating the effectiveness of the training.
-
-Overall, the experiment confirms that Deep Q-Learning with Experience Replay and a Target Network is a robust approach for solving continuous state-space reinforcement learning tasks like Lunar Lander.
